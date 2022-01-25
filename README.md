@@ -1,5 +1,6 @@
 # PySpark_Tutorials
-This repo contains code for practising PySpark.</br>
+This repo contains code for practising PySpark.</br></br>
+
 <b>Contents</b></br>
 <b>1. rdd_.ipynb -> </b>This notebook contains basics of RDDs.</br>
 <b>2. Pyspark_Intro.ipynb -> </b>This notebook contains code for creating RDDs, PySpark DataFrame from the RDDs, and Pandas DataFrame from PySpark DataFrame.</br>
